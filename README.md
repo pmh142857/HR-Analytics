@@ -1,7 +1,7 @@
 # HR Analytics
 HR Analytics and Employee performance IBM use of model classifiers to predict whether an employee is likely to quit or not.
 
-## Add library
+## Add library 💬
 ```
 library(VIM)
 library(plotrix)
@@ -145,9 +145,9 @@ troc3$auc
 troc4=roc(response=Trainingmodel4$y,predictor = Trainingmodel4$fitted.values,plot=T)
 troc4$auc
 ```
-[Datasets](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+## 🔗 [Datasets](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
-## Thank You 🐞
-- any kind of constructive suggestions are welcome , Please upvote this if you find it useful 💬
+## 🐞 Thank You
+- any kind of constructive suggestions are welcome , Please upvote this if you find it useful ✨
 
 
